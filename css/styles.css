@@ -174,7 +174,6 @@ body {
   gap: 1rem;
   align-items: center;
   justify-content: space-between;
-  border: 1px solid red;
 }
 .sec-features .features__text {
   padding: 2rem 0;
